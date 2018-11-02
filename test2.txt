@@ -10,3 +10,5 @@ add change(modify)
 add change(modify2)
 
 git modify
+
+git modify2
