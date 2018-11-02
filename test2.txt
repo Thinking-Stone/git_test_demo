@@ -8,3 +8,5 @@ working Directory new line
 
 add change(modify)
 add change(modify2)
+
+git modify
